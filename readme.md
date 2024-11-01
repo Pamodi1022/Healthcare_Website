@@ -1,4 +1,4 @@
-# MediHelp-Web-Application
+# HealthCare-Web-Application
 
 ## Overview
 *This Web Application was developed for MediHelp Pharmaceuticals Services where customers can purchase pharmaceutical items as they wish.*
@@ -14,5 +14,7 @@
 ## Technologies Used
 - *HTML, CSS, Javacript:* The core programming languages for developing the Web Application.
 
-## Contributors
-- Misal Silva (https://github.com/MisalSilva)
+## Contributor
+*Pamodi Pansiluni*
+- User Profile
+- Team Page
