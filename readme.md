@@ -1,7 +1,7 @@
 # HealthCare-Web-Application
 
 ## Overview
-This Web Application was developed for MediHelp Pharmaceuticals Services where customers can purchase pharmaceutical items as they wish.
+This Web Application was developed for Healthcare Services where customers can purchase pharmaceutical items as they wish.
 
 ## Features
 *This Web Application consists of :* 
