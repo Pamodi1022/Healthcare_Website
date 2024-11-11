@@ -5,6 +5,7 @@
         <title>Team</title>
         <!--Link to external CSS sheet-->
         <link rel="stylesheet" type="text/css" href="team.css">
+        <script src="script.js"></script>
         <!--Link to google fonts-->
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
         <link href="https://fonts.googleapis.com/css2? family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
@@ -95,27 +96,6 @@
                 </footer>
             
             </section>
-        
-            <script>
-                //JavaScript for mobile menu functionality
-                const menuBtn = document.querySelector("#menu-btn");
-                const closeMenuBtn = document.querySelector("#close-menu-btn");
-                const navLinks = document.querySelector("#navLinks");
-
-                if (menuBtn) {
-                    menuBtn.addEventListener("click", () => {
-                        navLinks.classList.toggle("show-mobile-menu");
-                        menuBtn.classList.toggle("active"); 
-                    });
-                }
-
-                if (closeMenuBtn) {
-                    closeMenuBtn.addEventListener("click", () => {
-                        navLinks.classList.remove("show-mobile-menu");
-                        menuBtn.classList.remove("active"); 
-                    });
-                }
-                </script>
         </header>    
     </body> 
 </html>
